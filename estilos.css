@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+body{
+    background: url(./logo-rest.jpg);
+    background-size: cover;
+}
+
+.title-menu{
+    width: 100%;
+    height: auto;
+}
+header {
+    text-align: left;
+    padding: 20px;
+    width: 20%;
+    height: 100px;
+    }
+header h1{
+    font-size: 40px;
+    font-style: italic;
+    color: rgb(135, 100, 11);
+}
+
+nav{
+    padding-right: 200px;
+    position: absolute;
+    top: 4%;
+    right: 0%;
+    left: 74%;
+}
+.menu li a{
+    color:rgb(100, 165, 144);
+    text-decoration: none;
+}
+
+.menu{
+    list-style: none;
+    font-size: 20px;
+}
+
+article img{
+    margin: 20px;
+    width: 80%;
+    height: 100px;
+    margin-left: 10px;
+
+}
+.container{
+    width: 100%;
+    color: brown;
+    height: auto;
+}
+
+.izq{
+    padding: 5px;
+    position: absolute;
+    width: 20%;
+    height: auto;
+}
+.container p{
+    text-align: center;
+}
+.title-cont{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: rgb(135, 100, 11);
+}
+.der{
+    top: 200px;
+    position: absolute;
+    width: 22%;
+    margin-left: 75%;
+    height: auto;
+}
+
+
+footer p{
+    color: rgb(255, 75, 75);
+    height: auto;
+    background-color: aqua;
+
+}
